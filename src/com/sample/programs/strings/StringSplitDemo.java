@@ -1,4 +1,4 @@
-package com.strings;
+package com.sample.programs.strings;
 
 public class StringSplitDemo {
 
